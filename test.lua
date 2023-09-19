@@ -1,1 +1,1 @@
-local Caca = "Hello Wld"
+Krnl:LoadAsync("https://raw.githubusercontent.com/GoIah/RobloxCode/main/cACA.lua")
