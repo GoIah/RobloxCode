@@ -1,1 +1,1 @@
-print("Hello World")
+local Caca = "Hello Wld"
